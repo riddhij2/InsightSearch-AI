@@ -1,0 +1,5 @@
+{
+  "name": "InsightSearch AI",
+  "description": "A responsive AI-powered search engine similar to Perplexity, providing grounded answers with citations and follow-up questions.",
+  "requestFramePermissions": []
+}
